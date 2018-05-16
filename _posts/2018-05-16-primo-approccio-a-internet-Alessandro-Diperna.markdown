@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Il mio primo approccio a Internet"
-description: Cosa un bambino pensa della reta Internet
+description: Come è cambiato il modo di navigare sul web partendo dalla mia prima esperienza.
 date: 2018-05-16
 author: Alessandro Diperna
-img: bambino.jpeg
+img: 
 comment: 
 ---
 
@@ -24,7 +24,7 @@ Le mie prime attività le effettuavo offline e consistevano principalmente nell�
 
 
 ![Pinball]({{site.baseurl}}/assets/images/pinball.jpg)
->Inerfeccia di Pinball – Fonte: Flickr
+>Interfaccia di Pinball – Fonte: Flickr
 
 Ne passò di tempo da allora e a circa 12 anni ebbi finalmente l’opportunità di accedere al web.
 Frequentavo la scuola media e presi parte ad un corso di informatica in cui conobbi alcuni aspetti del pc e di internet che fino ad allora trascuravo; compresi quanto fosse importante usare tali strumenti con la dovuta attenzione.
