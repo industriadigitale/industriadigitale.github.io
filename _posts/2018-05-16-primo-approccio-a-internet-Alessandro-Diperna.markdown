@@ -4,7 +4,7 @@ title:  "Il mio primo approccio a Internet"
 description: Come è cambiato il modo di navigare sul web partendo dalla mia prima esperienza.
 date: 2018-05-16
 author: Alessandro Diperna
-img:fonte-PxHere1.jpeg
+img:
 comment:
 ---
 
