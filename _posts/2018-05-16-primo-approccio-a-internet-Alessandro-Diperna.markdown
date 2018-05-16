@@ -5,7 +5,7 @@ description: Come è cambiato il modo di navigare sul web partendo dalla mia pri
 date: 2018-05-16
 author: Alessandro Diperna
 img: fonte-PxHere1.jpeg
-comment: Bambini che utilizzano il computer - fonte: PxHere
+comment: "Bambini che utilizzano il computer - fonte: PxHere"
 ---
 
 Sembra così naturale oggi prendere un pc o un altro device e accedere al web in qualsiasi luogo in cui ci si trovi. Appartengo alla classe dei ‘98 e sono cresciuto assorbendo gli albori e le successive conseguenze di quella che poi è stata, e ancor oggi è, la “Rivoluzione Digitale”. 
