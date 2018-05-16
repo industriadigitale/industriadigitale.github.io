@@ -8,6 +8,9 @@
       <div class="page-container">
         {% if page.img %}
          <img class="page-img" src={{ "/assets/images/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+         {% if page.comment %}
+            <blockquote>{{ page.comment }}</blockquote>
+          {% endif %}
         {% endif %}
         <div class="page-content">
           <article>
@@ -17,8 +20,7 @@
             {% endif %}
             {{page.content | markdownify}}
           </article>
-          {% include share.html %}
-          {% include disqus.html %}
+          {% include share.html %}  
           {% include txtpen.html %}
         </div>
       </div>
