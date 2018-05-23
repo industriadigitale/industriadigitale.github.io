@@ -5,8 +5,8 @@ description: Come è cambiato il modo di navigare sul web partendo dalla mia pri
 date: 2018-05-16
 author: Alessandro Diperna
 img: images2.jpeg
-comment: "bambini che utilizzano il pc - fonte: PxHere"
->[link immagine](https://pxhere.com/sk/photo/764632)
+comment: "bambini che utilizzano il pc - fonte: PxHere -"
+[link immagine](https://pxhere.com/sk/photo/764632)
 ---
 
 Sembra così naturale oggi prendere un pc o un altro device e accedere al web in qualsiasi luogo in cui ci si trovi. Appartengo alla classe dei ‘98 e sono cresciuto assorbendo gli albori e le successive conseguenze di quella che poi è stata, e ancor oggi è, la “Rivoluzione Digitale”. 
@@ -25,7 +25,7 @@ Le mie prime attività le effettuavo offline e consistevano principalmente nell�
 
 
 ![Pinball]({{site.baseurl}}/assets/images/pinball.jpg)
->Interfaccia di Pinball – Fonte: Flickr
+>Interfaccia di Pinball – Fonte: Flickr -
 >[link immagine](https://www.flickr.com/photos/henry9112/3425502009)
 
 Ne passò di tempo da allora e a circa 12 anni ebbi finalmente l’opportunità di accedere al web.
