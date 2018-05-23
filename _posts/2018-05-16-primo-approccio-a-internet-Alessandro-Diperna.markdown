@@ -25,7 +25,7 @@ Le mie prime attività le effettuavo offline e consistevano principalmente nell�
 
 ![Pinball]({{site.baseurl}}/assets/images/pinball.jpg)
 >Interfaccia di Pinball – Fonte: Flickr
-[https://www.flickr.com/photos/henry9112/3425502009]
+>[fonte immagine](https://www.flickr.com/photos/henry9112/3425502009)
 
 Ne passò di tempo da allora e a circa 12 anni ebbi finalmente l’opportunità di accedere al web.
 Frequentavo la scuola media e presi parte ad un corso di informatica in cui conobbi alcuni aspetti del pc e di internet che fino ad allora trascuravo; compresi quanto fosse importante usare tali strumenti con la dovuta attenzione.
