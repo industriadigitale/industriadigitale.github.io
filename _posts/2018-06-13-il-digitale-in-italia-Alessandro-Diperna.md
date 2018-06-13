@@ -6,7 +6,7 @@ date: 2018-06-13
 author: Alessandro Diperna
 img: italia.jpg
 comment: "Italia - Fonte: Pxhere (<a href='https://pxhere.com/it/photo/1193026'>link immagine</a>)"
-tags: [Rivoluzionedigitale, Suditaliaintheworld]
+tags: [Rivoluzionedigitale, Suditaliaintheworld, Confocommericio, Cameradicommercio, approfondiAMOilDIGITALE]
 ---
 
 La Rivoluzione Digitale, come già detto in altre occasioni, è un fenomeno che ormai si estende in modo inarrestabile in tutte le zone del mondo, ma che, a mio avviso, non si manifesta sempre in nel medesimo modo. In particolare, mi piacerebbe porre maggiore attenzione a come tale fenomeno si manifesta nel mio paese, l’Italia.
