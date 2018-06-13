@@ -8,6 +8,7 @@ img: Apple_logo_Think_Different_vectorized.svg
 comment: "By Apple logo Think Different.png:derivative work: Stoopkitty (talk) 19:55, 31 January 2011 (UTC) (	Apple logo Think Different.png) [Public domain or Public domain], via Wikimedia Commons<br/><br/>
 In un’intervista del 1997, Steve Jobs parla della Apple, della Nike, del marketing e di come realizzare un brand grande e di grande ispirazione.
 Tutto questo per lanciare la campagna di famosa e riuscita della storia: Think different."
+tags: [Pubblicità,Facebook,Google,Advertising,Money]
 ---
 
 L'espansione della rete Internet degli ultimi anni ha permesso di reperire informazioni velocemente e di divulgarle con la stessa facilità. Fra tutti questi benefici, dei quali codone diverse aziende, uno dei più importanti è sicuramente la possibilità di effettuare una pubblicità che raggiunge un maggior numero di persone e ha costi inferiori.

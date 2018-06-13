@@ -3,9 +3,10 @@ layout: post
 title:  "Il mio primo approccio a Internet"
 description: Come ho usufruito di internet la prima volta e come sono stato influenzato durante il corso di studi.
 date: 2018-05-25
-author: Matteo Renato
+author: Matteo Reano
 img: bambino.jpg
-comment: "Autore: Naka Fonte: gangdegeeks"
+comment: "Autore: Naka<br> Fonte: <a href='http://gangdegeeks.com/bebe-geek/'>gangdegeeks</a>"
+tags: [RivoluzioneDigitale, MSN, Internet, Infanzia]
 ---
 
 Mi chiamo Matteo Reano sono un laureando del Politecnico di Torino e seguo il corso di Rivoluzione Digitale. In questo post tratto il mio primo approccio a internet ma, per spiegarvi ciò, è necessario contestualizzare il discorso iniziando dal paesino in cui vivo.
@@ -16,7 +17,7 @@ Da quanto citato si può immaginare che la tecnologia impiegò del tempo ad arri
 
 ![Messenger]({{site.baseurl}}/assets/images/messenger.png)
 >Simbolo del primo programma per chattare che usai: MSN-emotion<br/>
->Fonte: wardveenstra<br/>
+>Fonte: [wardveenstra](http://wardveenstra.nl/all/beeld/3d-animator/msn-emoticons/) <br/>
 >Autore: Bardo Hogendoorn<br/>
 
 Con il passare dei giorni incominciammo a scoprire i vari giochi disponibili al suo interno ed essendo ragazzini fu oggetto di svago per diverso tempo. Nell’ultimo anno delle medie la scuola organizzò dei corsi d’informatica e ci fu insegnato l’utilizzo di programmi basilari quali Word, Excel, PawerPoint e Paint. Grazie a questi corsi realizzai meglio lo scopo di avere un computer in casa oltre al divertimento personale.

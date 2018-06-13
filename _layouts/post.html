@@ -19,6 +19,7 @@
             <div class="date-byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span></div>
             {% endif %}
             {{page.content | markdownify}}
+            {% include tag.html %}
           </article>
           {% include share.html %}  
           {% include txtpen.html %}
