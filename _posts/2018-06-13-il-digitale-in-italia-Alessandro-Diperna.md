@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Il digitale in Italia"
-description: ""
+description: "Il digitale in Italia ha avuto due velocità diverse e pertanto è scindibile in due fazioni."
 date: 2018-06-13
 author: Alessandro Diperna
-img: 
-comment: ""
+img: italia.jpg
+comment: "Italia - Fonte: Pxhere (<a href='https://pxhere.com/it/photo/1193026'>link immagine</a>)"
 tags: [Rivoluzionedigitale, Suditaliaintheworld]
 ---
 
