@@ -777,7 +777,7 @@ body {
 
 .page-wrap {
   padding: 0 1rem 2rem;
-  margin-top: 12rem;
+  margin-top: 8rem;
   margin-bottom: 3rem;
 }
 
@@ -835,7 +835,7 @@ blockquote {
 }
 
 .header-content {
-  padding: 1rem 0 1rem;
+  padding: 5px 0 0.5em 0;;
 }
 
 .logo {
@@ -846,7 +846,7 @@ blockquote {
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: #b2b2b2;
   -webkit-transition: all .3s;
   transition: all .3s;
@@ -1125,13 +1125,13 @@ blockquote {
   color: rgba(255, 255, 255, 0.3);
   border-top: 8px solid rgba(0, 0, 0, 0.5);
   margin-top: -8px;
-  padding: 4rem 3rem;
+  padding: 2em 2em;
 }
 
 .social-icons {
   text-align: center;
   list-style: none;
-  margin: 0 0 0.5rem 0;
+  margin-top: 1em;
   padding: 0;
 }
 .social-icons li {
@@ -1260,4 +1260,62 @@ blockquote {
     color: #0b6cd6;
     padding: 0px 6px;
     align-items: right;
+}
+
+nav ul {
+  margin: 0.7em;
+}
+
+nav ul li {
+  display: inline;
+  margin: 2px 0px;
+  padding: 5px 20px;
+}
+ 
+nav ul li.home {
+  border-right: 1px solid #b3b3b2;
+}
+
+nav ul li.home {
+  border-left: 1px solid transparent;
+}
+
+.rwd-video {
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    position: relative;
+}
+.rwd-video iframe,
+.rwd-video object,
+.rwd-video embed {
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+div.presentation {
+  display: block;
+  width: 40%;
+  margin: auto;
+  margin-bottom: 3em;
+}
+
+div.presentation h2, p, a{
+  text-align: center;
+}
+
+div.presentation h2 {
+  text-transform: uppercase;
+  font-size: 2em;
+  color: #6D4C41;
+}
+
+hr {
+  width: 80%;
+  height: 12px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
 }

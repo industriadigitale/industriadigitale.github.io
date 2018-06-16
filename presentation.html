@@ -1,0 +1,40 @@
+---
+layout: default
+title: About Us
+description: "Chi siamo"
+permalink: /about
+---
+
+{% for member in site.data.presentation %}
+<div class="presentation">
+	<h2>{{ member.name }}</h2>
+	<div class="rwd-video">
+		<iframe src="{{ member.video }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen height="315" width="560"></iframe>
+		</iframe>
+	</div>
+
+	<ul class="social-icons">
+      {% if member.twitter %}
+      <li><a href="{{ member.twitter }}"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if member.facebook %}
+      <li><a href="{{ member.facebook }}"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if member.googleplus %}
+      <li><a href="{{ member.googleplus }}"><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+</a></li>
+      {% endif %}
+      {% if member.instagram %}
+      <li><a href="{{ member.instagram }}"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if member.github %}
+      <li><a href="{{ member.github}}"><i class="fa fa-github-square" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if member.linkedin %}
+      <li><a href="{{ member.linkedin}}"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+      {% endif %}
+    </ul>
+
+</div>
+<hr>
+{% endfor %}	
