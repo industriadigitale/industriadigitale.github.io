@@ -1303,7 +1303,9 @@ div.presentation {
   margin-bottom: 3em;
 }
 
-div.presentation h2, p, a{
+div.presentation h2,
+div.presentation p,
+div.presentation a{
   text-align: center;
 }
 
