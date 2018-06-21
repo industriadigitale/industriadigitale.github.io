@@ -5,11 +5,16 @@
   github: https://github.com/nicoladilillo
   facebook: https://www.facebook.com/nicoladilillo98?ref=bookmarks
   linkedin: https://www.linkedin.com/in/nicola-dilillo-a09116ba/
+  extras:
+    - title: "Intervista: cos'è slack?"
+      video: https://www.youtube.com/watch?v=49gGVerNwhk
 
 - name: Alessandro Diperna
-  video: https://www.youtube.com/embed/ou4lNzf1N-U=1
+  video: https://www.youtube.com/embed/ou4lNzf1N-U
   twitter: https://twitter.com/DipernaAle
+
 
 - name: Matteo Reano
   video:
+  twitter: https://twitter.com/matteoreano
 

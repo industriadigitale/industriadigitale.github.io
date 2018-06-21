@@ -35,6 +35,17 @@ permalink: /about
       {% endif %}
     </ul>
 
+    <div class="extra">
+    {% if member.extras %}
+    <lu>
+      {% for extra in member.extras %}
+        <li>
+          <a href="https://www.youtube.com/embed/49gGVerNwhk">{{ extra.title }}</a>
+       </li>
+      {% endfor %}
+    </lu>
+    {% endif%}
+   </div>
 </div>
 <hr>
 {% endfor %}	
