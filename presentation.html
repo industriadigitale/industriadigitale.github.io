@@ -40,7 +40,7 @@ permalink: /about
     <lu>
       {% for extra in member.extras %}
         <li>
-          <a href="https://www.youtube.com/embed/49gGVerNwhk">{{ extra.title }}</a>
+          <a href="{{ extra.video }}" target="_blank">{{ extra.title }}</a>
        </li>
       {% endfor %}
     </lu>
