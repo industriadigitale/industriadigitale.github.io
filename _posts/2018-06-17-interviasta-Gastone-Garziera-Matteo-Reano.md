@@ -5,7 +5,7 @@ description: Progettista nel team di Pier Giorgio Perotto per la Olivetti P101
 date: 2018-06-17
 author: Matteo Reano
 img: stampante.jpeg
-comment: "Olivetti Programma 101(P101), calcolatore programmabile da tavolo  - fonte: museoscienza ( http://www.museoscienza.org/dipartimenti/catalogo_collezioni/scheda_oggetto.asp?idk_in=ST010-00250 ) -"
+comment: "Olivetti Programma 101(P101), calcolatore programmabile da tavolo  - fonte: <a href='http://www.museoscienza.org/dipartimenti/catalogo_collezioni/scheda_oggetto.asp?idk_in=ST010-00250'>museoscienza</a> -"
 tags: [RivoluzDigitale, P101, Olivetti, PersonalComputer, Technology ]
 ---
 

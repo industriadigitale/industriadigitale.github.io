@@ -5,7 +5,7 @@ description: L’utilizzo dell’informatica nell’organizzazione aziendale e n
 date: 2018-06-14
 author: Matteo Reano
 img: uomo.jpeg
-comment: "Connessione tra mondo-uomo-codice binario - fonte: [pixabay]( https://pixabay.com/it/binario-codice-binario-matrix-3175019/ ) -"
+comment: "Connessione tra mondo-uomo-codice binario - fonte: <a href='https://pixabay.com/it/binario-codice-binario-matrix-3175019/'>pixabay</a>"
 tags: [RivoluzDigitale, Business, virtualreality, Organizzazione, VR, Technology, code ]
 ---
 
@@ -30,7 +30,7 @@ Le piccole e medie aziende che non riescono a stare al passo con i colossi dell�
 
 Inizialmente questa tecnologia era molto diffusa e utilizzata per videogiochi e per la visione di film. Dopo uno studio a riguardo si è deciso di utilizzarla in ambito commerciale, vendere e far vedere progetti richiesti dai clienti. Indossare un paio di occhiali e vedersi davanti una simulazione di come sia la realtà progettata lasciava i clienti stupefatti. Riscontrando risultati ottimali e ottimizzando la realizzazione dei progetti, l’uso di tale tecnologia si sta sviluppando e ampliando, aumentando il numero di aziende che ne fanno uso. 
 
-Strumento usato soprattutto dagli studi di progettazione quali ingegneri, architetti. Come riportato nel seguente [link] (https://www.cadlinesw.com/sito/blog/i-progettisti-scoprono-la-realta-virtuale) le indagini di mercato indicano che l’uso delle tecnologie VR (Virtual Reality) nella progettazione architettonica raggiungerà in breve tempo oltre il 90% dei progetti. E’ in via di sviluppo anche in ambito ingegneristico, riguardo a qualsiasi tipo di progetto proprio per “toccarlo e provarlo” ancora prima di realizzarlo!
+Strumento usato soprattutto dagli studi di progettazione quali ingegneri, architetti. Come riportato nel seguente [link](https://www.cadlinesw.com/sito/blog/i-progettisti-scoprono-la-realta-virtuale) le indagini di mercato indicano che l’uso delle tecnologie VR (Virtual Reality) nella progettazione architettonica raggiungerà in breve tempo oltre il 90% dei progetti. E’ in via di sviluppo anche in ambito ingegneristico, riguardo a qualsiasi tipo di progetto proprio per “toccarlo e provarlo” ancora prima di realizzarlo!
 
 
 
