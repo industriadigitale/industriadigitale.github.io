@@ -17,8 +17,8 @@ Riguardo alla pianificazione del magazzino si può notare lo studio che viene ef
 
 ![Codice a barre]({{site.baseurl}}/assets/images/barre.jpeg)
 
->L'utilizzo dei codice a barre per trasporti e organizzazione interna – Fonte: pixabay - Autore: Romano Walloy
->[link immagine](https://pixabay.com/it/codice-a-barre-piano-camion-carico-616035/)
+>L'utilizzo dei codice a barre per trasporti e organizzazione interna – Fonte: [pixabay](https://pixabay.com/it/codice-a-barre-piano-camion-carico-616035/) - Autore: Romano Walloy
+>
 
 Le piccole e medie aziende che non riescono a stare al passo con i colossi dell’industria 4.0 hanno a loro favore il tempo da dedicare ai clienti quindi prestare loro consulenza. Specialmente riguardo alla richiesta di progetti. Per questi ultimi la loro realizzazione è in continuo sviluppo. In aggiunta ai disegni su carta, rappresentati da varie angolazioni, si sta introducendo la realtà virtuale o realtà simulata.
 
