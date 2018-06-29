@@ -10,7 +10,7 @@ tags: [RivoluzDigitale, P101, Olivetti, PersonalComputer, Technology ]
 ---
 
 
-![Pinball]({{site.baseurl}}/assets/images/autore.jpeg)
+![autore]({{site.baseurl}}/assets/images/autore.jpeg)
 
 Gastone Garziera, nato nel 1942, informatico, venne assunto da Mario Tchou nel ’62 per lavorare nel laboratorio elettronico dell’Olivetti.
 Fece parte del team di Pier Giorgio Perotto nella costruzione del P101, il primo personal computer della storia del mondo.
