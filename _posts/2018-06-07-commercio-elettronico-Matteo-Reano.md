@@ -8,7 +8,7 @@ img: e-commerce.jpg
 comment: 'fonte: <a href="https://pixabay.com/it/e-commerce-vendita-on-line-2140603/">pixabay</a><br>
 autore: team pixabay<br>
 modalità di acquisto'
-tags: [E-commerce,ricoluzionedigitale, business, marketing, digitalmarketing, SEO]
+tags: [E-commerce, RivoluzDigitale, business, marketing, digitalmarketing, SEO]
 ---
 
 Negli ultimi anni il mondo delle imprese è cambiato ed è in continuo sviluppo.

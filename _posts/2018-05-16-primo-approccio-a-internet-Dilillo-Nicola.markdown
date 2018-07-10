@@ -7,7 +7,7 @@ author: Nicola Dilillo
 img: images.jpeg
 comment: "Fonte: <a href='https://pixabay.com/it/bambini-risata-studio-di-laptop-1822471/'>Pixabay</a><br>
 Autore: <a href='https://pixabay.com/it/users/sasint-3639875/'>Sasint</a>"
-tags: [PrimoapproccioaInternet, Infanzia, Internet, Pinball, Childood, Discovered]
+tags: [PrimoapproccioaInternet, Infanzia, Internet, Pinball, Childood, Discovered,RivoluzDigitale]
 ---
 
 Avevo 12 anni quando mio padre portò per la prima volta un computer a casa ed ero stato proprio io ad insistere con i miei genitori per comprarlo con le solite scuse “Un computer serve in una famiglia moderna” o “Non possiamo vivere nel terzo millennio e non avere un PC”. Nonostante fossero affermazioni corrette erano poco credibili dette da un bambino.

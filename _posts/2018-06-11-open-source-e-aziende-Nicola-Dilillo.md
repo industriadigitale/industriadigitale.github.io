@@ -8,7 +8,7 @@ img: open-source.jpg
 comment: "Fonte: <a href='http://alphastockimages.com/'>Alpha Stock Images</a><br>
 Original Author: <a href='http://www.nyphotographic.com/'>Nick Youngson</a><br>
 <a href='http://www.creative-commons-images.com/highway-signs/o/open-source.html'>Immagine Originale</a>"
-tags: [opensource, Github, GNU, SoftwareLibero]
+tags: [opensource, Github, GNU, SoftwareLibero, RivoluzDigitale]
 ---
 
 Nel 1983 Richard Matthew Stallman diede il via al progetto [GNU](https://it.wikipedia.org/wiki/GNU), con l’obiettivo di creare un sistema operativo gratuito, simile a [Unix](https://it.wikipedia.org/wiki/Unix/). Da questa idea nacquero altri progetti software con licenza open source, anche detto software libero, in cui non veniva rilasciato solo il lavoro finale ma anche il rispettivo codice sorgente, grazie al quale si potevano modificare i diversi tools in base alle proprie esigenze. Chiunque poteva migliorare quel codice se individuava delle criticità, rispettando una burocrazia interna del sistema che permetteva di gestire al meglio lo sviluppo del progetto.

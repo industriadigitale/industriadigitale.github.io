@@ -6,7 +6,7 @@ date: 2018-05-25
 author: Matteo Reano
 img: bambino.jpg
 comment: "Autore: Naka<br> Fonte: <a href='http://gangdegeeks.com/bebe-geek/'>gangdegeeks</a>"
-tags: [RivoluzioneDigitale, MSN, Internet, Infanzia]
+tags: [RivoluzDigitale, MSN, Internet, Infanzia]
 ---
 
 Mi chiamo Matteo Reano sono un laureando del Politecnico di Torino e seguo il corso di Rivoluzione Digitale. In questo post tratto il mio primo approccio a internet ma, per spiegarvi ciò, è necessario contestualizzare il discorso iniziando dal paesino in cui vivo.
