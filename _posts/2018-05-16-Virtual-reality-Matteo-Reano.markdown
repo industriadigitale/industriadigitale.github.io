@@ -26,7 +26,6 @@ Le piccole e medie aziende che non riescono a stare al passo con i colossi dell�
 ![realtà virtuale]({{site.baseurl}}/assets/images/virtuale.jpeg)
 
 >Operatrice che utilizza visore, guanti e cuffie per interagire in un ambiente virtuale – Fonte: [wikimedia](https://it.wikipedia.org/wiki/Realt%C3%A0_virtuale) - Autore: National Aeronautics and space Administration
->[link immagine](https://upload.wikimedia.org/wikipedia/commons/c/c4/Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg)
 
 Inizialmente questa tecnologia era molto diffusa e utilizzata per videogiochi e per la visione di film. Dopo uno studio a riguardo si è deciso di utilizzarla in ambito commerciale, vendere e far vedere progetti richiesti dai clienti. Indossare un paio di occhiali e vedersi davanti una simulazione di come sia la realtà progettata lasciava i clienti stupefatti. Riscontrando risultati ottimali e ottimizzando la realizzazione dei progetti, l’uso di tale tecnologia si sta sviluppando e ampliando, aumentando il numero di aziende che ne fanno uso. 
 
