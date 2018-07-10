@@ -6,15 +6,15 @@ date: 2018-06-13
 author: Alessandro Diperna
 img: italia.jpg
 comment: "Italia - Fonte: Pxhere (<a href='https://pxhere.com/it/photo/1193026'>link immagine</a>)"
-tags: [Rivoluzionedigitale, Suditaliaintheworld, Confcommercio, Cameradicommercio, Unioncamere, digitaleperleimprese,  approfondiAMOilDIGITALE]
+tags: [RivoluzDigitale, Suditaliaintheworld, Confcommercio, Cameradicommercio, Unioncamere, digitaleperleimprese,  approfondiAMOilDIGITALE]
 ---
 
 La Rivoluzione Digitale, come già detto in altre occasioni, è un fenomeno che ormai si estende in modo inarrestabile in tutte le zone del mondo, ma che, a mio avviso, non si manifesta sempre in nel medesimo modo. In particolare, mi piacerebbe porre maggiore attenzione a come tale fenomeno si manifesta nel mio paese, l’Italia.
 
 L’Italia dal mio punto di vista è attualmente divisibile in due categorie: da un lato chi ha già “aperto la porta” al digitale e dall’altro chi, invece, non vuole ancora aprirla tutta.
-Per quanto riguarda la seconda fazione citata, ritengo che essa consideri il digitale fondamentalmente come mezzo per poter fare pubblicità e di conseguenza denaro. Nella società odierna, infatti, ci si rende conto di come la pubblicità sia ormai diventata un fattore importante ed essenziale per la crescita di un’azienda o per il successo di una personalità pubblica. Riguardo a ciò, negli ultimi mesi in Italia è nata la [Google Digital Training](https://events.withgoogle.com/digitaltraining/), un’iniziativa, frutto di una collaborazione tra Google, Unioncamere e le Camere di Commercio, finalizzata ad “aiutare le imprese del territorio ad avere successo sul web”.
+Per quanto riguarda la seconda fazione citata, ritengo che essa consideri il digitale fondamentalmente come mezzo per poter fare pubblicità e di conseguenza denaro. Nella società odierna, infatti, ci si rende conto di come la pubblicità sia ormai diventata un fattore importante ed essenziale per la crescita di un’azienda o per il successo di una personalità pubblica. 
 
-Tale organizzazione propone su tutto il territorio italiano corsi di formazione, denominati “La tua Impresa in Digitale”, e permette di poter mettere subito in pratica gli insegnamenti appresi tramite il Digital Check-up, servizio gratuito, grazie al quale si ha la possibilità di confrontarsi con un esperto digitale sulla strategia migliore da adottare per la propria attività.
+Riguardo a ciò, negli ultimi mesi in Italia è nata la [Google Digital Training](https://events.withgoogle.com/digitaltraining/), un’iniziativa, frutto di una collaborazione tra Google, Unioncamere e le Camere di Commercio, finalizzata ad “aiutare le imprese del territorio ad avere successo sul web”. Tale organizzazione propone su tutto il territorio italiano corsi di formazione, denominati “La tua Impresa in Digitale”, e permette di poter mettere subito in pratica gli insegnamenti appresi tramite il Digital Check-up, servizio gratuito, grazie al quale si ha la possibilità di confrontarsi con un esperto digitale sulla strategia migliore da adottare per la propria attività.
 
 ![Digitale in Italia]({{site.baseurl}}/assets/images/digitaleitalia.jpg)
 >copertina progetto Google Digital Training – articolo del 13 maggio 2018 – Gazzetta del Mezzogiorno 
